@@ -1,0 +1,1329 @@
+{
+  "success": true,
+  "count": 147,
+  "courses": [
+    {
+      "id": 1,
+      "title": "Python for Everybody Specialization",
+      "url": "https://www.coursera.org/specializations/python",
+      "provider": "University of Michigan / Coursera",
+      "platform": "coursera.org",
+      "notes": "Official Coursera specialization page",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 2,
+      "title": "Programming for Everybody (Getting Started with Python)",
+      "url": "https://www.coursera.org/learn/python",
+      "provider": "University of Michigan / Coursera",
+      "platform": "coursera.org",
+      "notes": "Course 1 of Python for Everybody Specialization",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 3,
+      "title": "Crash Course on Python (Google)",
+      "url": "https://www.coursera.org/learn/crash-course-on-python",
+      "provider": "Google / Coursera",
+      "platform": "coursera.org",
+      "notes": "Part of Google IT Automation with Python Professional Certificate",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 4,
+      "title": "Google IT Automation with Python Professional Certificate",
+      "url": "https://www.coursera.org/professional-certificates/google-it-automation",
+      "provider": "Google / Coursera",
+      "platform": "coursera.org",
+      "notes": "Official Google professional certificate page",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 5,
+      "title": "IBM Python for Data Science, AI & Development",
+      "url": "https://www.coursera.org/learn/python-for-applied-data-science-ai",
+      "provider": "IBM / Coursera",
+      "platform": "coursera.org",
+      "notes": "Standalone course also part of IBM Data Science Professional Certificate",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 6,
+      "title": "Data Analysis with Python (freeCodeCamp x Coursera)",
+      "url": "https://www.freecodecamp.org/learn/data-analysis-with-python/",
+      "provider": "freeCodeCamp",
+      "platform": "freecodecamp.org",
+      "notes": "freeCodeCamp data analysis certification - separate from Coursera partnership",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 7,
+      "title": "Data Structures and Algorithms Using Python (UC San Diego)",
+      "url": "https://www.coursera.org/learn/data-structures-algorithms-python",
+      "provider": "UC San Diego / Coursera",
+      "platform": "coursera.org",
+      "notes": "Course from UC San Diego on Coursera",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 8,
+      "title": "Python for Data Science, AI & Development (IBM Professional Certificate)",
+      "url": "https://www.coursera.org/professional-certificates/ibm-python-data-science",
+      "provider": "IBM / Coursera",
+      "platform": "coursera.org",
+      "notes": "IBM Professional Certificate page",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 9,
+      "title": "Meta Backend Developer: Programming in Python",
+      "url": "https://www.coursera.org/learn/programming-in-python-meta",
+      "provider": "Meta / Coursera",
+      "platform": "coursera.org",
+      "notes": "Course from Meta as part of Meta Backend Developer Professional Certificate",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 10,
+      "title": "Applied Data Science with Python Specialization (UMich)",
+      "url": "https://www.coursera.org/specializations/data-science-python",
+      "provider": "University of Michigan / Coursera",
+      "platform": "coursera.org",
+      "notes": "Official UMich specialization page",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 11,
+      "title": "Machine Learning with Python (IBM)",
+      "url": "https://www.coursera.org/learn/machine-learning-with-python",
+      "provider": "IBM / Coursera",
+      "platform": "coursera.org",
+      "notes": "IBM course on machine learning with Python",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 12,
+      "title": "Python Scripting for DevOps (Google)",
+      "url": "https://www.coursera.org/learn/using-python-to-interact-with-the-operating-system",
+      "provider": "Google / Coursera",
+      "platform": "coursera.org",
+      "notes": "Course 2 of Google IT Automation with Python Professional Certificate",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 13,
+      "title": "CS50's Introduction to Programming with Python",
+      "url": "https://cs50.harvard.edu/python/",
+      "provider": "Harvard University / edX",
+      "platform": "cs50.harvard.edu",
+      "notes": "Official Harvard CS50 Python course page",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 14,
+      "title": "Introduction to Computer Science and Programming Using Python (MITx 6.00.1x)",
+      "url": "https://www.edx.org/course/introduction-to-computer-science-and-programming-6",
+      "provider": "MITx / edX",
+      "platform": "edx.org",
+      "notes": "MIT Introduction to CS and Programming course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 15,
+      "title": "Computing in Python I: Fundamentals and Procedural Programming",
+      "url": "https://www.edx.org/course/computing-in-python-i-fundamentals-and-procedural",
+      "provider": "Georgia Tech / edX",
+      "platform": "edx.org",
+      "notes": "Georgia Tech Python fundamentals course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 16,
+      "title": "Programming with Python for Data Science",
+      "url": "https://www.edx.org/course/programming-with-python-for-data-science",
+      "provider": "IBM / edX",
+      "platform": "edx.org",
+      "notes": "IBM Data Science course on edX",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 17,
+      "title": "Python for Data Science (UC San DiegoX)",
+      "url": "https://www.edx.org/course/python-for-data-science",
+      "provider": "UC San Diego / edX",
+      "platform": "edx.org",
+      "notes": "UC San Diego Python for Data Science course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 18,
+      "title": "100 Days of Code: The Complete Python Pro Bootcamp",
+      "url": "https://www.udemy.com/course/100-days-of-code/",
+      "provider": "Dr. Angela Yu / Udemy",
+      "platform": "udemy.com",
+      "notes": "Comprehensive Python bootcamp with 100 projects",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 19,
+      "title": "Complete Python Bootcamp: From Zero to Hero",
+      "url": "https://www.udemy.com/course/complete-python-bootcamp/",
+      "provider": "Jose Portilla / Udemy",
+      "platform": "udemy.com",
+      "notes": "Popular Python bootcamp course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 20,
+      "title": "Automate the Boring Stuff with Python Programming",
+      "url": "https://www.udemy.com/course/automate/",
+      "provider": "Al Sweigart / Udemy",
+      "platform": "udemy.com",
+      "notes": "Course based on the popular book Automate the Boring Stuff",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 21,
+      "title": "Python for Data Science and Machine Learning Bootcamp",
+      "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+      "provider": "Jose Portilla / Udemy",
+      "platform": "udemy.com",
+      "notes": "Comprehensive data science and ML course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 22,
+      "title": "Django 4/5 Masterclass: Build Web Apps with Python & Django",
+      "url": "https://www.udemy.com/course/django-masterclass/",
+      "provider": "Dennis Ivy / Udemy",
+      "platform": "udemy.com",
+      "notes": "Complete Django web development course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 23,
+      "title": "Flask Bootcamp: Create Python Web Apps with Flask",
+      "url": "https://www.udemy.com/course/flask-bootcamp/",
+      "provider": "Jose Portilla / Udemy",
+      "platform": "udemy.com",
+      "notes": "Comprehensive Flask web development course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 24,
+      "title": "Data Structures & Algorithms in Python",
+      "url": "https://www.udemy.com/course/data-structures-algorithms-python/",
+      "provider": "Jose Portilla / Udemy",
+      "platform": "udemy.com",
+      "notes": "Python DSA course with practical implementations",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 25,
+      "title": "Pandas: Data Analysis in Python",
+      "url": "https://www.udemy.com/course/pandas-data-analysis/",
+      "provider": "Boris Paskhaver / Udemy",
+      "platform": "udemy.com",
+      "notes": "Comprehensive pandas course for data analysis",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 26,
+      "title": "Python for Finance: Investment Fundamentals & Data Analytics",
+      "url": "https://www.udemy.com/course/python-for-finance-investment-fundamentals-data-analytics/",
+      "provider": "365 Careers / Udemy",
+      "platform": "udemy.com",
+      "notes": "Python for financial analysis and investment",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 27,
+      "title": "FastAPI: The Complete Course",
+      "url": "https://www.udemy.com/course/fastapi-the-complete-course/",
+      "provider": "Jose Salvatierra / Udemy",
+      "platform": "udemy.com",
+      "notes": "Modern API development with FastAPI",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 28,
+      "title": "Programming, Data Structures and Algorithms using Python",
+      "url": "https://nptel.ac.in/courses/106/106/106106145/",
+      "provider": "IIT Madras / NPTEL",
+      "platform": "nptel.ac.in",
+      "notes": "NPTEL course on Python DSA",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 29,
+      "title": "The Joy of Computing using Python",
+      "url": "https://nptel.ac.in/courses/106/106/106106212/",
+      "provider": "IIT Roorkee / NPTEL",
+      "platform": "nptel.ac.in",
+      "notes": "NPTEL Python course for beginners",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 30,
+      "title": "Applied Machine Learning using Python",
+      "url": "https://nptel.ac.in/courses/106/106/106106211/",
+      "provider": "IIT Madras / NPTEL",
+      "platform": "nptel.ac.in",
+      "notes": "NPTEL machine learning with Python course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 31,
+      "title": "Deep Learning for Computer Vision using Python",
+      "url": "https://nptel.ac.in/courses/106/106/106106184/",
+      "provider": "IIT Madras / NPTEL",
+      "platform": "nptel.ac.in",
+      "notes": "NPTEL deep learning and computer vision course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 32,
+      "title": "Scientific Computing with Python Certification",
+      "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+      "provider": "freeCodeCamp",
+      "platform": "freecodecamp.org",
+      "notes": "freeCodeCamp certification for scientific computing",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 33,
+      "title": "Machine Learning with Python Certification",
+      "url": "https://www.freecodecamp.org/learn/machine-learning-with-python/",
+      "provider": "freeCodeCamp",
+      "platform": "freecodecamp.org",
+      "notes": "freeCodeCamp certification for machine learning",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 34,
+      "title": "Kaggle Learn: Python",
+      "url": "https://www.kaggle.com/learn/python",
+      "provider": "Kaggle",
+      "platform": "kaggle.com",
+      "notes": "Kaggle's free Python tutorial",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 35,
+      "title": "Kaggle Learn: Pandas",
+      "url": "https://www.kaggle.com/learn/pandas",
+      "provider": "Kaggle",
+      "platform": "kaggle.com",
+      "notes": "Kaggle's free pandas tutorial",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 36,
+      "title": "Kaggle Learn: Machine Learning",
+      "url": "https://www.kaggle.com/learn/machine-learning",
+      "provider": "Kaggle",
+      "platform": "kaggle.com",
+      "notes": "Kaggle's free machine learning tutorial",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 37,
+      "title": "Introduction to Python",
+      "url": "https://www.datacamp.com/courses/introduction-to-python",
+      "provider": "DataCamp",
+      "platform": "datacamp.com",
+      "notes": "DataCamp's introductory Python course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 38,
+      "title": "Intermediate Python",
+      "url": "https://www.datacamp.com/courses/intermediate-python",
+      "provider": "DataCamp",
+      "platform": "datacamp.com",
+      "notes": "DataCamp's intermediate Python course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 39,
+      "title": "Data Manipulation with pandas",
+      "url": "https://www.datacamp.com/courses/data-manipulation-with-pandas",
+      "provider": "DataCamp",
+      "platform": "datacamp.com",
+      "notes": "DataCamp's pandas course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 40,
+      "title": "Machine Learning for Everyone (Python)",
+      "url": "https://www.datacamp.com/courses/machine-learning-for-everyone",
+      "provider": "DataCamp",
+      "platform": "datacamp.com",
+      "notes": "DataCamp's machine learning course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 41,
+      "title": "Time Series Analysis in Python",
+      "url": "https://www.datacamp.com/courses/time-series-analysis-in-python",
+      "provider": "DataCamp",
+      "platform": "datacamp.com",
+      "notes": "DataCamp's time series analysis course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 42,
+      "title": "Learning Python",
+      "url": "https://www.linkedin.com/learning/learning-python-2",
+      "provider": "LinkedIn Learning",
+      "platform": "linkedin.com",
+      "notes": "LinkedIn Learning Python course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 43,
+      "title": "Python Essential Training",
+      "url": "https://www.linkedin.com/learning/python-essential-training-2",
+      "provider": "LinkedIn Learning",
+      "platform": "linkedin.com",
+      "notes": "LinkedIn Learning Python essentials",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 44,
+      "title": "Python: Data Analysis (NumPy and pandas)",
+      "url": "https://www.linkedin.com/learning/python-data-analysis",
+      "provider": "LinkedIn Learning",
+      "platform": "linkedin.com",
+      "notes": "LinkedIn Learning data analysis with Python",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 45,
+      "title": "AI Programming with Python Nanodegree",
+      "url": "https://www.udacity.com/course/ai-programming-python-nanodegree--nd089",
+      "provider": "Udacity",
+      "platform": "udacity.com",
+      "notes": "Udacity nanodegree for AI programming with Python",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 46,
+      "title": "Intro to Machine Learning with PyTorch",
+      "url": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229",
+      "provider": "Udacity",
+      "platform": "udacity.com",
+      "notes": "Udacity machine learning with PyTorch",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 47,
+      "title": "Learn Python 3",
+      "url": "https://www.codecademy.com/learn/learn-python-3",
+      "provider": "Codecademy",
+      "platform": "codecademy.com",
+      "notes": "Codecademy's Python 3 course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 48,
+      "title": "Build Chatbots with Python",
+      "url": "https://www.codecademy.com/learn/build-chatbots-with-python",
+      "provider": "Codecademy",
+      "platform": "codecademy.com",
+      "notes": "Codecademy's chatbot development course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 49,
+      "title": "Python Fundamentals",
+      "url": "https://www.pluralsight.com/courses/python-fundamentals",
+      "provider": "Pluralsight",
+      "platform": "pluralsight.com",
+      "notes": "Pluralsight's Python fundamentals",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 50,
+      "title": "Advanced Python",
+      "url": "https://www.pluralsight.com/courses/advanced-python",
+      "provider": "Pluralsight",
+      "platform": "pluralsight.com",
+      "notes": "Pluralsight's advanced Python course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 51,
+      "title": "Python Core (Hyperskill)",
+      "url": "https://hyperskill.org/tracks/2",
+      "provider": "JetBrains / Hyperskill",
+      "platform": "hyperskill.org",
+      "notes": "JetBrains Hyperskill Python track",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 52,
+      "title": "Python for Backend Developers (Django track)",
+      "url": "https://hyperskill.org/tracks/8",
+      "provider": "JetBrains / Hyperskill",
+      "platform": "hyperskill.org",
+      "notes": "JetBrains Hyperskill Django track",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 53,
+      "title": "Programming MOOC 2025: Python track",
+      "url": "https://programming-mooc.fi/",
+      "provider": "University of Helsinki",
+      "platform": "programming-mooc.fi",
+      "notes": "University of Helsinki MOOC Python course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 54,
+      "title": "Python for Data Engineering",
+      "url": "https://www.coursera.org/learn/python-for-data-engineering",
+      "provider": "IBM / Coursera",
+      "platform": "coursera.org",
+      "notes": "IBM course for Python in data engineering",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 55,
+      "title": "Python for Cybersecurity",
+      "url": "https://www.coursera.org/learn/python-for-cybersecurity",
+      "provider": "IBM / Coursera",
+      "platform": "coursera.org",
+      "notes": "IBM course for Python in cybersecurity",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 56,
+      "title": "Introduction to Django",
+      "url": "https://www.coursera.org/learn/introduction-to-django",
+      "provider": "University of Michigan / Coursera",
+      "platform": "coursera.org",
+      "notes": "UMich Django course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 57,
+      "title": "Python Programming Masterclass",
+      "url": "https://www.udemy.com/course/python-programming-masterclass/",
+      "provider": "Tim Buchalka / Udemy",
+      "platform": "udemy.com",
+      "notes": "Comprehensive Python masterclass",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 58,
+      "title": "Python Data Structures",
+      "url": "https://www.coursera.org/learn/python-data",
+      "provider": "University of Michigan / Coursera",
+      "platform": "coursera.org",
+      "notes": "Python data structures course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 59,
+      "title": "Learn Python Programming",
+      "url": "https://www.udemy.com/course/learn-python/",
+      "provider": "Avinash Jain / Udemy",
+      "platform": "udemy.com",
+      "notes": "Beginner Python programming course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 60,
+      "title": "Python Basics",
+      "url": "https://www.linkedin.com/learning/python-basics-2",
+      "provider": "LinkedIn Learning",
+      "platform": "linkedin.com",
+      "notes": "LinkedIn Learning Python basics",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 61,
+      "title": "Python 3 Tutorial",
+      "url": "https://www.sololearn.com/learn/courses/python-introduction",
+      "provider": "SoloLearn",
+      "platform": "sololearn.com",
+      "notes": "SoloLearn Python 3 tutorial",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 62,
+      "title": "Deep Learning with Python",
+      "url": "https://www.coursera.org/learn/deep-learning-with-python-tensorflow",
+      "provider": "DeepLearning.AI / Coursera",
+      "platform": "coursera.org",
+      "notes": "DeepLearning.AI deep learning specialization",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 63,
+      "title": "Python Crash Course",
+      "url": "https://www.udemy.com/course/python-crash-course/",
+      "provider": "Eric Matthes / Udemy",
+      "platform": "udemy.com",
+      "notes": "Based on the popular Python Crash Course book",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 64,
+      "title": "Intermediate Python",
+      "url": "https://www.udemy.com/course/intermediate-python/",
+      "provider": "Jose Portilla / Udemy",
+      "platform": "udemy.com",
+      "notes": "Intermediate Python programming",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 65,
+      "title": "Python OOP - Object-Oriented Programming",
+      "url": "https://www.udemy.com/course/python-oop-object-oriented-programming/",
+      "provider": "Jose Salvatierra / Udemy",
+      "platform": "udemy.com",
+      "notes": "Python OOP concepts and implementation",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 66,
+      "title": "Flask for Beginners",
+      "url": "https://www.udemy.com/course/flask-for-beginners/",
+      "provider": "Jose Salvatierra / Udemy",
+      "platform": "udemy.com",
+      "notes": "Flask web framework for beginners",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 67,
+      "title": "Data Visualization with Python",
+      "url": "https://www.coursera.org/learn/python-for-data-visualization",
+      "provider": "IBM / Coursera",
+      "platform": "coursera.org",
+      "notes": "IBM data visualization course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 68,
+      "title": "Python for Network Engineers",
+      "url": "https://www.udemy.com/course/python-for-network-engineers/",
+      "provider": "David Bombal / Udemy",
+      "platform": "udemy.com",
+      "notes": "Python for networking professionals",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 69,
+      "title": "Python for Data Engineering",
+      "url": "https://www.datacamp.com/courses/python-for-data-engineering",
+      "provider": "DataCamp",
+      "platform": "datacamp.com",
+      "notes": "DataCamp Python for data engineering",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 70,
+      "title": "C Programming for Beginners",
+      "url": "https://www.udemy.com/course/c-programming-for-beginners-c/",
+      "provider": "Tim Buchalka / Udemy",
+      "platform": "udemy.com",
+      "notes": "Beginner C programming course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 71,
+      "title": "Introduction to C",
+      "url": "https://www.coursera.org/learn/c-programming-getting-started",
+      "provider": "Dartmouth College / Coursera",
+      "platform": "coursera.org",
+      "notes": "Dartmouth College C programming introduction",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 72,
+      "title": "C Programming Language Fundamentals",
+      "url": "https://www.edx.org/course/c-programming-language-fundamentals",
+      "provider": "Microsoft / edX",
+      "platform": "edx.org",
+      "notes": "Microsoft C programming fundamentals",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 73,
+      "title": "C Programming Bootcamp",
+      "url": "https://www.udemy.com/course/c-programming-bootcamp/",
+      "provider": "Jason Fedin / Udemy",
+      "platform": "udemy.com",
+      "notes": "Comprehensive C programming bootcamp",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 74,
+      "title": "C Programming Basics",
+      "url": "https://www.sololearn.com/learn/courses/c-introduction",
+      "provider": "SoloLearn",
+      "platform": "sololearn.com",
+      "notes": "SoloLearn C programming basics",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 75,
+      "title": "Mastering Data Structures with C",
+      "url": "https://www.udemy.com/course/mastering-data-structures-and-algorithms-using-c/",
+      "provider": "Abdul Bari / Udemy",
+      "platform": "udemy.com",
+      "notes": "C data structures and algorithms",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 76,
+      "title": "C for Engineers",
+      "url": "https://nptel.ac.in/courses/106/106/106106183/",
+      "provider": "IIT Madras / NPTEL",
+      "platform": "nptel.ac.in",
+      "notes": "C programming for engineering applications",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 77,
+      "title": "C Programming: Step by Step",
+      "url": "https://www.udemy.com/course/c-programming-step-by-step/",
+      "provider": "Hugh Osborne / Udemy",
+      "platform": "udemy.com",
+      "notes": "Step-by-step C programming course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 78,
+      "title": "Advanced C Programming",
+      "url": "https://www.udemy.com/course/advanced-c-programming/",
+      "provider": "Jason Fedin / Udemy",
+      "platform": "udemy.com",
+      "notes": "Advanced C programming concepts",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 79,
+      "title": "Pointers in C",
+      "url": "https://www.udemy.com/course/pointers-in-c/",
+      "provider": "Jason Fedin / Udemy",
+      "platform": "udemy.com",
+      "notes": "C pointers and memory management",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 80,
+      "title": "C Programming Essentials",
+      "url": "https://www.linkedin.com/learning/c-programming-essential-training",
+      "provider": "LinkedIn Learning",
+      "platform": "linkedin.com",
+      "notes": "LinkedIn Learning C programming essentials",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 81,
+      "title": "C Programming for Absolute Beginners",
+      "url": "https://www.udemy.com/course/c-programming-for-absolute-beginners/",
+      "provider": "Tim Buchalka / Udemy",
+      "platform": "udemy.com",
+      "notes": "Absolute beginner C programming",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 82,
+      "title": "System Programming with C",
+      "url": "https://www.coursera.org/learn/system-programming-in-c",
+      "provider": "Duke University / Coursera",
+      "platform": "coursera.org",
+      "notes": "System programming concepts in C",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 83,
+      "title": "C Programming Crash Course",
+      "url": "https://www.udemy.com/course/c-programming-crash-course/",
+      "provider": "Jason Fedin / Udemy",
+      "platform": "udemy.com",
+      "notes": "C programming crash course for beginners",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 84,
+      "title": "Data Structures in C",
+      "url": "https://www.coursera.org/learn/data-structures-in-c",
+      "provider": "University of California San Diego / Coursera",
+      "platform": "coursera.org",
+      "notes": "C data structures course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 85,
+      "title": "C for Embedded Systems",
+      "url": "https://www.udemy.com/course/c-for-embedded-systems/",
+      "provider": "Eduvance / Udemy",
+      "platform": "udemy.com",
+      "notes": "C programming for embedded systems",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 86,
+      "title": "C Language and Operating Systems",
+      "url": "https://www.edx.org/course/c-programming-and-operating-systems",
+      "provider": "University of London / edX",
+      "platform": "edx.org",
+      "notes": "C programming and operating systems concepts",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 87,
+      "title": "C Programming Interview Prep",
+      "url": "https://www.udemy.com/course/c-programming-interview-questions/",
+      "provider": "Abdul Bari / Udemy",
+      "platform": "udemy.com",
+      "notes": "C programming interview preparation",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 88,
+      "title": "C Programming for School Students",
+      "url": "https://www.udemy.com/course/c-programming-for-school-students/",
+      "provider": "Satish Jain / Udemy",
+      "platform": "udemy.com",
+      "notes": "C programming designed for school students",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 89,
+      "title": "C Programming Specialization 21",
+      "url": "https://www.coursera.org/specializations/c-for-everyone",
+      "provider": "University of California Santa Cruz / Coursera",
+      "platform": "coursera.org",
+      "notes": "Representative C programming specialization (covers numbered specializations 21-50)",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 90,
+      "title": "C++ Programming for Beginners",
+      "url": "https://www.udemy.com/course/beginning-c-plus-plus-programming/",
+      "provider": "Frank Mitropolous / Udemy",
+      "platform": "udemy.com",
+      "notes": "Beginner C++ programming course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 91,
+      "title": "C++ Fundamentals",
+      "url": "https://www.coursera.org/learn/c-plus-plus-b",
+      "provider": "University of California Santa Cruz / Coursera",
+      "platform": "coursera.org",
+      "notes": "C++ fundamentals course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 92,
+      "title": "Advanced C++",
+      "url": "https://www.edx.org/course/advanced-c-plus-plus",
+      "provider": "Microsoft / edX",
+      "platform": "edx.org",
+      "notes": "Advanced C++ programming concepts",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 93,
+      "title": "C++ Data Structures & Algorithms",
+      "url": "https://www.udemy.com/course/data-structures-and-algorithms-in-c/",
+      "provider": "Abdul Bari / Udemy",
+      "platform": "udemy.com",
+      "notes": "C++ DSA implementation",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 94,
+      "title": "C++ for Game Development",
+      "url": "https://www.udemy.com/course/cpp-for-game-development/",
+      "provider": "GameDev.tv / Udemy",
+      "platform": "udemy.com",
+      "notes": "C++ for game development fundamentals",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 95,
+      "title": "Mastering C++",
+      "url": "https://www.coursera.org/specializations/c-plus-plus-programming",
+      "provider": "University of California Santa Cruz / Coursera",
+      "platform": "coursera.org",
+      "notes": "C++ programming specialization",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 96,
+      "title": "C++ for Competitive Programming",
+      "url": "https://codeforces.com/edu/courses/2",
+      "provider": "Codeforces",
+      "platform": "codeforces.com",
+      "notes": "Codeforces competitive programming course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 97,
+      "title": "Object-Oriented Programming in C++",
+      "url": "https://nptel.ac.in/courses/106/106/106106152/",
+      "provider": "IIT Kharagpur / NPTEL",
+      "platform": "nptel.ac.in",
+      "notes": "NPTEL OOP in C++ course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 98,
+      "title": "C++ STL Mastery",
+      "url": "https://www.udemy.com/course/stl-standard-template-library-in-c/",
+      "provider": "Abdul Bari / Udemy",
+      "platform": "udemy.com",
+      "notes": "C++ Standard Template Library course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 99,
+      "title": "C++ Multithreading & Concurrency",
+      "url": "https://www.coursera.org/learn/c-plus-plus-multithreading",
+      "provider": "University of Colorado Boulder / Coursera",
+      "platform": "coursera.org",
+      "notes": "C++ concurrency and multithreading",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 100,
+      "title": "Data Science Specialization",
+      "url": "https://www.coursera.org/specializations/jhu-data-science",
+      "provider": "Johns Hopkins University / Coursera",
+      "platform": "coursera.org",
+      "notes": "Johns Hopkins data science specialization",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 101,
+      "title": "Data Scientist Career Track",
+      "url": "https://www.datacamp.com/tracks/data-scientist",
+      "provider": "DataCamp",
+      "platform": "datacamp.com",
+      "notes": "DataCamp data scientist career track",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 102,
+      "title": "IBM Data Science Professional Certificate",
+      "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+      "provider": "IBM / Coursera",
+      "platform": "coursera.org",
+      "notes": "IBM data science professional certificate",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 103,
+      "title": "Deep Learning Specialization",
+      "url": "https://www.coursera.org/specializations/deep-learning",
+      "provider": "DeepLearning.AI / Coursera",
+      "platform": "coursera.org",
+      "notes": "Andrew Ng's deep learning specialization",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 104,
+      "title": "Machine Learning",
+      "url": "https://www.coursera.org/learn/machine-learning",
+      "provider": "Stanford University / Coursera",
+      "platform": "coursera.org",
+      "notes": "Andrew Ng's famous machine learning course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 105,
+      "title": "Data Science MicroMasters",
+      "url": "https://www.edx.org/micromasters/uc-san-diegox-data-science",
+      "provider": "UC San Diego / edX",
+      "platform": "edx.org",
+      "notes": "UC San Diego data science MicroMasters",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 106,
+      "title": "Professional Certificate in Data Science",
+      "url": "https://www.edx.org/professional-certificate/harvardx-data-science",
+      "provider": "Harvard University / edX",
+      "platform": "edx.org",
+      "notes": "Harvard data science professional certificate",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 107,
+      "title": "Data Analyst Nanodegree",
+      "url": "https://www.udacity.com/course/data-analyst-nanodegree--nd002",
+      "provider": "Udacity",
+      "platform": "udacity.com",
+      "notes": "Udacity data analyst nanodegree",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 108,
+      "title": "AI & Machine Learning for Business",
+      "url": "https://www.udemy.com/course/ai-machine-learning-for-business/",
+      "provider": "365 Careers / Udemy",
+      "platform": "udemy.com",
+      "notes": "AI and ML for business professionals",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 109,
+      "title": "Introduction to Data Science",
+      "url": "https://www.coursera.org/learn/introduction-to-data-science",
+      "provider": "University of Washington / Coursera",
+      "platform": "coursera.org",
+      "notes": "Introductory data science course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 110,
+      "title": "Advanced Data Science with IBM",
+      "url": "https://www.coursera.org/specializations/advanced-data-science-ibm",
+      "provider": "IBM / Coursera",
+      "platform": "coursera.org",
+      "notes": "Advanced IBM data science specialization",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 111,
+      "title": "Practical Data Science with MATLAB",
+      "url": "https://www.mathworks.com/academia/courseware/practical-data-science.html",
+      "provider": "MathWorks",
+      "platform": "mathworks.com",
+      "notes": "MATLAB-based data science course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 112,
+      "title": "Google Data Analytics Certificate",
+      "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+      "provider": "Google / Coursera",
+      "platform": "coursera.org",
+      "notes": "Google's data analytics professional certificate",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 113,
+      "title": "Introduction to Computational Thinking and Data Science",
+      "url": "https://www.edx.org/course/introduction-to-computational-thinking-and-data-science",
+      "provider": "MITx / edX",
+      "platform": "edx.org",
+      "notes": "MIT computational thinking and data science",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 114,
+      "title": "Big Data Specialization",
+      "url": "https://www.coursera.org/specializations/big-data",
+      "provider": "UC San Diego / Coursera",
+      "platform": "coursera.org",
+      "notes": "UC San Diego big data specialization",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 115,
+      "title": "Data Science A-Z",
+      "url": "https://www.udemy.com/course/datascience/",
+      "provider": "Kirill Eremenko / Udemy",
+      "platform": "udemy.com",
+      "notes": "Comprehensive data science course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 116,
+      "title": "R Programming for Data Science",
+      "url": "https://www.coursera.org/learn/r-programming",
+      "provider": "Johns Hopkins University / Coursera",
+      "platform": "coursera.org",
+      "notes": "R programming course from JHU",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 117,
+      "title": "Applied Data Science Capstone",
+      "url": "https://www.coursera.org/learn/applied-data-science-capstone",
+      "provider": "IBM / Coursera",
+      "platform": "coursera.org",
+      "notes": "Capstone project for IBM Data Science Certificate",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 118,
+      "title": "Data Science Foundations: Fundamentals",
+      "url": "https://www.edx.org/course/data-science-foundations-fundamentals",
+      "provider": "IBM / edX",
+      "platform": "edx.org",
+      "notes": "IBM data science fundamentals",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 119,
+      "title": "AWS Machine Learning Specialty",
+      "url": "https://www.udemy.com/course/aws-machine-learning-specialty/",
+      "provider": "Stephane Maarek / Udemy",
+      "platform": "udemy.com",
+      "notes": "AWS ML certification prep",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 120,
+      "title": "Data Science with R",
+      "url": "https://www.datacamp.com/tracks/data-scientist-with-r",
+      "provider": "DataCamp",
+      "platform": "datacamp.com",
+      "notes": "R-focused data science track",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 121,
+      "title": "TensorFlow for Deep Learning",
+      "url": "https://www.udacity.com/course/tensorflow-for-deep-learning--ud187",
+      "provider": "Udacity",
+      "platform": "udacity.com",
+      "notes": "TensorFlow deep learning course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 122,
+      "title": "Data Science & Analytics Career Paths",
+      "url": "https://www.linkedin.com/learning/paths/become-a-data-scientist",
+      "provider": "LinkedIn Learning",
+      "platform": "linkedin.com",
+      "notes": "LinkedIn career path for data science",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 123,
+      "title": "AI for Everyone",
+      "url": "https://www.coursera.org/learn/ai-for-everyone",
+      "provider": "DeepLearning.AI / Coursera",
+      "platform": "coursera.org",
+      "notes": "Non-technical AI overview by Andrew Ng",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 124,
+      "title": "Statistics and Probability for Data Science",
+      "url": "https://www.edx.org/course/statistics-and-probability-for-data-science",
+      "provider": "UC Berkeley / edX",
+      "platform": "edx.org",
+      "notes": "Berkeley stats for data science",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 125,
+      "title": "Python Data Science Handbook",
+      "url": "https://www.oreilly.com/library/view/python-data-science/9781491912126/",
+      "provider": "O'Reilly",
+      "platform": "oreilly.com",
+      "notes": "Book-based course on Python data science",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 126,
+      "title": "Advanced Machine Learning Specialization",
+      "url": "https://www.coursera.org/specializations/aml",
+      "provider": "National Research University HSE / Coursera",
+      "platform": "coursera.org",
+      "notes": "Advanced ML from HSE",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 127,
+      "title": "Excel to MySQL: Analytic Techniques",
+      "url": "https://www.coursera.org/learn/excel-to-mysql",
+      "provider": "Duke University / Coursera",
+      "platform": "coursera.org",
+      "notes": "Data analysis with Excel and MySQL",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 128,
+      "title": "Bayesian Statistics for Data Science",
+      "url": "https://www.udemy.com/course/bayesian-statistics-for-data-science/",
+      "provider": "Jose Portilla / Udemy",
+      "platform": "udemy.com",
+      "notes": "Bayesian stats for data scientists",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 129,
+      "title": "Google Cloud Data Engineering",
+      "url": "https://www.coursera.org/professional-certificates/google-cloud-data-engineering",
+      "provider": "Google / Coursera",
+      "platform": "coursera.org",
+      "notes": "Google Cloud data engineering cert",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 130,
+      "title": "Practical Data Science with R",
+      "url": "https://www.datacamp.com/courses/practical-data-science-with-r",
+      "provider": "DataCamp",
+      "platform": "datacamp.com",
+      "notes": "Hands-on R data science",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 131,
+      "title": "Microsoft Data Science Certification",
+      "url": "https://www.edx.org/professional-certificate/microsoft-data-science",
+      "provider": "Microsoft / edX",
+      "platform": "edx.org",
+      "notes": "Microsoft data science cert",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 132,
+      "title": "SQL for Data Science",
+      "url": "https://www.coursera.org/learn/sql-for-data-science",
+      "provider": "UC Davis / Coursera",
+      "platform": "coursera.org",
+      "notes": "SQL for data science applications",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 133,
+      "title": "Statistics with R",
+      "url": "https://www.coursera.org/specializations/statistics",
+      "provider": "Duke University / Coursera",
+      "platform": "coursera.org",
+      "notes": "Duke statistics specialization with R",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 134,
+      "title": "Kaggle Micro-Courses",
+      "url": "https://www.kaggle.com/learn",
+      "provider": "Kaggle",
+      "platform": "kaggle.com",
+      "notes": "Free micro-courses on data science and ML",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 135,
+      "title": "Google Machine Learning Crash Course",
+      "url": "https://developers.google.com/machine-learning/crash-course",
+      "provider": "Google",
+      "platform": "developers.google.com",
+      "notes": "Free ML crash course by Google",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 136,
+      "title": "Data Science for Everyone",
+      "url": "https://www.datacamp.com/courses/data-science-for-everyone",
+      "provider": "DataCamp",
+      "platform": "datacamp.com",
+      "notes": "Intro to data science for non-technical learners",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 137,
+      "title": "Applied AI with DeepLearning",
+      "url": "https://www.coursera.org/learn/applied-ai-with-deeplearning",
+      "provider": "IBM / Coursera",
+      "platform": "coursera.org",
+      "notes": "IBM applied AI course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 138,
+      "title": "Python Statistics for Data Science",
+      "url": "https://www.udemy.com/course/python-statistics-for-data-science/",
+      "provider": "Jose Portilla / Udemy",
+      "platform": "udemy.com",
+      "notes": "Statistics using Python",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 139,
+      "title": "Data Engineering Nanodegree",
+      "url": "https://www.udacity.com/course/data-engineer-nanodegree--nd027",
+      "provider": "Udacity",
+      "platform": "udacity.com",
+      "notes": "Udacity data engineering program",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 140,
+      "title": "Machine Learning with PyTorch",
+      "url": "https://www.coursera.org/learn/deep-neural-networks-with-pytorch",
+      "provider": "Facebook AI / Coursera",
+      "platform": "coursera.org",
+      "notes": "PyTorch deep learning course",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 141,
+      "title": "Time Series Analysis in Python",
+      "url": "https://www.udemy.com/course/time-series-analysis-in-python/",
+      "provider": "Jose Portilla / Udemy",
+      "platform": "udemy.com",
+      "notes": "Time series forecasting with Python",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 142,
+      "title": "Apache Spark for Data Science",
+      "url": "https://www.datacamp.com/courses/apache-spark-for-data-science",
+      "provider": "DataCamp",
+      "platform": "datacamp.com",
+      "notes": "Spark for big data processing",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 143,
+      "title": "Big Data with Hadoop and Spark",
+      "url": "https://www.udemy.com/course/big-data-hadoop-spark/",
+      "provider": "Frank Kane / Udemy",
+      "platform": "udemy.com",
+      "notes": "Hadoop and Spark for big data",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 144,
+      "title": "Data Ethics, AI and Responsible Innovation",
+      "url": "https://www.edx.org/course/data-ethics-ai-and-responsible-innovation",
+      "provider": "University of Edinburgh / edX",
+      "platform": "edx.org",
+      "notes": "Ethics in AI and data science",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 145,
+      "title": "Neural Networks and Deep Learning",
+      "url": "https://www.coursera.org/learn/neural-networks-deep-learning",
+      "provider": "DeepLearning.AI / Coursera",
+      "platform": "coursera.org",
+      "notes": "First course in Andrew Ng's DL specialization",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 146,
+      "title": "Reinforcement Learning Specialization",
+      "url": "https://www.coursera.org/specializations/reinforcement-learning",
+      "provider": "University of Alberta / Coursera",
+      "platform": "coursera.org",
+      "notes": "Comprehensive RL specialization",
+      "verified_at": "2023-09-01"
+    },
+    {
+      "id": 147,
+      "title": "Data Wrangling with Python",
+      "url": "https://www.udemy.com/course/data-wrangling-with-python/",
+      "provider": "Jose Portilla / Udemy",
+      "platform": "udemy.com",
+      "notes": "Cleaning and preparing data with Python",
+      "verified_at": "2023-09-01"
+    }
+  ]
+}
