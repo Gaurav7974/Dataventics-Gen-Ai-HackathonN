@@ -33,7 +33,7 @@ It combines Generative AI with speech recognition and text-to-speech synthesis t
 
 ### 1. Clone the Repository
 ``` bash
-git clone https://github.com/your-username/gen-ai-voice-agent.git
+git clone https://github.com/Gaurav7974/gen-ai-voice-agent.git
 cd gen-ai-voice-agent
 ```
 ### 2. Setup Backend (Flask)
